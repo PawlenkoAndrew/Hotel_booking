@@ -18,7 +18,7 @@ const options = {
     scripts:{
         src: './src/js/',
         dest:'./dist/js',
-        watch: './src/js/**/*.js'
+        watch: './src/js/*.js'
     },
     styles:{
         src: './src/sass/*.scss',
